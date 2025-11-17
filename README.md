@@ -1,9 +1,6 @@
 # Jean Pierre Ribeiro Dos Santos
 
 ### Desenvolvedor especializado em Visão Computacional e Machine Learning
-
-[**LinkedIn**](https://linkedin.com/in/jpierreribeiro) | [**GitHub**](https://github.com/jpierreribeiro) | [**Email**](mailto:contatoribeirodossantos@gmail.com)
-
 ---
 
 ### Sobre Mim
@@ -35,4 +32,9 @@ Atualmente, estou cursando **Tecnólogo em Sistemas para Internet** na UNIMAM (p
 #### Pesquisa: Uso de Modelos Multimodais para Classificação Zero-Shot de Pragas Agrícolas
 * **Descrição:** Pesquisa ativa sobre a aplicação de modelos Vision-Language (VLMs), como o OWL-ViT do Google Research, para reconhecer pragas agrícolas sem necessidade de treinamento supervisionado.
 * **Objetivo:** Investigar o potencial de redução de até 80% na dependência de datasets rotulados manualmente.
+---
+
+### Contato 
+
+[**LinkedIn**](https://linkedin.com/in/jpierreribeiro) | [**Email**](mailto:contatoribeirodossantos@gmail.com)
 ---
