@@ -1,37 +1,69 @@
 # Jean Pierre Ribeiro Dos Santos
 
-### Desenvolvedor especializado em Visão Computacional e Machine Learning
+### Backend Developer (Golang) | Machine Learning Background
 
-Sou um desenvolvedor focado em **Visão Computacional** e **Machine Learning**, com experiência prática comprovada em todo o pipeline de projetos de IA, desde a anotação e preparação de datasets até o treinamento de modelos.
+I am a developer focused on **backend development with Golang**, building REST APIs and structured systems with a strong emphasis on **code organization, data consistency and system design**.
 
-Atualmente, estou cursando presencialmente **Tecnólogo em Desenvolvimento de Sistemas** na UNIMAM.
+My background comes from **Machine Learning and Computer Vision**, where I worked across the full pipeline from data preparation and annotation to model training and evaluation. This experience gave me a strong analytical mindset and attention to detail when dealing with data and logic.
 
-*  **Estou trabalhando em:**
-    * Um projeto de pesquisa sobre **Classificação Zero-Shot de Pragas Agrícolas**, aplicando modelos Vision-Language (VLMs) como o OWL-ViT.
-    * Um projeto sobre **Utilização de Machine Learning em Sistemas Embarcados**, com Tensorflow Lite e C/C++.
-    * Um projeto de **Detecção de Pragas Agrícolas** usando modelos YOLO.
-
-### Habilidades Técnicas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Visão Computacional** | OpenCV, YOLO (Darknet e Ultralytics), TensorFlow, Keras, Detecção de Objetos, Segmentação, Transfer Learning |
-| **Anotação de Dados** | DarkMark, LabelImg, Rotulagem de Imagens, Controle de Qualidade, Data Augmentation, Validação de Datasets |
-| **Machine Learning** | CNN, TensorFlow Lite, Few-Shot Learning, Zero-Shot Learning |
-| **Linguagens & Bibliotecas**| Python, C/C++, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
-| **Formatos de Dataset** | YOLO, COCO, Pascal VOC |
-| **Ferramentas** | Git, GitHub, Docker |
+Currently, I am pursuing a degree in **Systems Development** at UNIMAM and actively building backend systems using Go, PostgreSQL and Docker.
 
 ---
 
-### Atual projeto de pesquisa
+## Core Skills
 
-#### Pesquisa: Uso de Modelos Multimodais para Classificação Zero-Shot de Pragas Agrícolas
-* **Descrição:** Pesquisa ativa sobre a aplicação de modelos Vision-Language (VLMs), como o OWL-ViT do Google Research, para reconhecer pragas agrícolas sem necessidade de treinamento supervisionado.
-* **Objetivo:** Investigar o potencial de redução de até 80% na dependência de datasets rotulados manualmente.
+### Backend
+- Golang (Gin)
+- REST API development
+- Layered architecture (handler, service, repository)
+- PostgreSQL (data modeling and persistence)
+- Docker & Docker Compose
+- Git (versioning and workflow)
+
+### Data & Machine Learning (Background)
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow)
+- Computer Vision (YOLO, OpenCV)
+- Data pipelines and dataset preparation
+- Model evaluation and experimentation
+
+### Frontend (Support)
+- Angular, Next.js, TypeScript
+- API integration
+
 ---
 
-### Contato 
+## Current Focus
 
-[**LinkedIn**](https://linkedin.com/in/jpierreribeiro) | [**Email**](mailto:contatoribeirodossantos@gmail.com)
+- Improving backend architecture and system design
+- Building real-world backend services with Go
+- Applying structured engineering practices to system development
+- Exploring practical applications of AI in backend systems
+
 ---
+
+## Selected Work
+
+### Computer Vision – Agricultural Pest Detection
+- Built datasets and annotation pipelines for YOLO models
+- Applied data augmentation techniques to improve dataset quality
+- Focus on small object detection and real-world constraints
+
+### Research – Zero-Shot Classification (VLMs)
+- Working with Vision-Language Models (OWL-ViT)
+- Exploring prompt engineering strategies for classification tasks
+- Goal: reduce dependency on labeled datasets
+
+---
+
+## Tools & Workflow
+
+- Git & GitHub (clean commits, structured repositories)
+- Docker (containerized environments)
+- API-first development approach
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/jpierreribeiro)  
+Email: contatoribeirodossantos@gmail.com
