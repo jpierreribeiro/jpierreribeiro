@@ -1,19 +1,19 @@
 # Jean Pierre Ribeiro Dos Santos
 
-### Backend Developer (Golang) | Machine Learning Background
+### Fullstack Developer | Machine Learning Background
 
-I am a developer focused on **backend development with Golang**, building REST APIs and structured systems with a strong emphasis on **code organization, data consistency and system design**.
+I am a developer focused on **fullstack development**, building REST APIs and structured systems with a strong emphasis on **code organization, data consistency and system design**.
 
 My background comes from **Machine Learning and Computer Vision**, where I worked across the full pipeline from data preparation and annotation to model training and evaluation. This experience gave me a strong analytical mindset and attention to detail when dealing with data and logic.
 
-Currently, I am pursuing a degree in **Systems Development** at UNIMAM and actively building backend systems using Go, PostgreSQL and Docker.
+Currently, I am pursuing a degree in **Systems Development** at UNIMAM and actively building backend systems using Python, Go, PostgreSQL and Docker.
 
 ---
 
 ## Core Skills
 
 ### Backend
-- Golang (Gin)
+- Go, Python
 - REST API development
 - Layered architecture (handler, service, repository)
 - PostgreSQL (data modeling and persistence)
