@@ -1,6 +1,6 @@
 # Jean Pierre Ribeiro Dos Santos
 
-### Fullstack Developer | Machine Learning Background
+### Fullstack Developer
 
 I am a developer focused on **fullstack development**, building REST APIs and structured systems with a strong emphasis on **code organization, data consistency and system design**.
 
@@ -26,7 +26,7 @@ Currently, I am pursuing a degree in **Systems Development** at UNIMAM and activ
 - Data pipelines and dataset preparation
 - Model evaluation and experimentation
 
-### Frontend (Support)
+### Frontend
 - Angular, Next.js, TypeScript
 - API integration
 
