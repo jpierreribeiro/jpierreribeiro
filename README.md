@@ -20,14 +20,14 @@ Currently, I am pursuing a degree in **Systems Development** at UNIMAM and activ
 - Docker & Docker Compose
 - Git (versioning and workflow)
 
-### Data & Machine Learning (Background)
+### Data & Machine Learning
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow)
 - Computer Vision (YOLO, OpenCV)
 - Data pipelines and dataset preparation
 - Model evaluation and experimentation
 
 ### Frontend
-- Angular, Next.js, TypeScript
+- React, Angular, Next.js, TypeScript
 - API integration
 
 ---
