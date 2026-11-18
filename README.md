@@ -1,30 +1,42 @@
 # Jean Pierre Ribeiro Dos Santos
 
-### Fullstack Developer
+### Software & AI Developer
 
-I am a developer focused on **fullstack development**, building REST APIs and structured systems with a strong emphasis on **code organization, data consistency and system design**.
+I build REST APIs, system integrations and AI-powered applications, with a strong emphasis on **code organization, data consistency and system design**.
 
-My background comes from **Machine Learning and Computer Vision**, where I worked across the full pipeline from data preparation and annotation to model training and evaluation. This experience gave me a strong analytical mindset and attention to detail when dealing with data and logic.
+My background comes from **Machine Learning and Computer Vision**, where I worked across the full pipeline, from data collection and annotation to model training, evaluation and deployment. Today I work as a freelance full stack developer and use AI agents with MCP tools in my daily workflow.
 
-Currently, I am pursuing a degree in **Systems Development** at UNIMAM and actively building backend systems using Python, Go, PostgreSQL and Docker.
+I am currently studying **Digital Technologies Development: Internet Systems** at UNIMAM (expected June 2027).
+
+🌐 **Portfolio:** [jpierreribeiro.com.br](https://www.jpierreribeiro.com.br)
+
+---
+
+## Experience
+
+- **Software Development Intern – Innovation Center (NIT), UNIMAM** (2026 – present)
+  Room Map: a web system that organizes classrooms and schedules for the university.
+- **Freelance Full Stack Developer – via Grillo** (2026 – present)
+  Client projects: REST APIs in Python (FastAPI) and Go, PostgreSQL, Redis, React and Docker.
+- **Founder & Developer – Dalivim** (2022 – 2024)
+  My own development agency: computer vision pipelines, automations and web scraping for clients.
 
 ---
 
 ## Core Skills
 
 ### Backend
-- Go, Python
-- REST API development
+- Go, Python, C#
+- REST API development (FastAPI, Gin, ASP.NET Core)
 - Layered architecture (handler, service, repository)
-- PostgreSQL (data modeling and persistence)
-- Docker & Docker Compose
-- Git (versioning and workflow)
+- PostgreSQL (data modeling and persistence), Redis
+- Docker & Docker Compose, CI/CD with GitHub Actions
 
-### Data & Machine Learning
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow)
-- Computer Vision (YOLO, OpenCV)
-- Data pipelines and dataset preparation
-- Model evaluation and experimentation
+### AI, Data & Machine Learning
+- AI agents and MCP integrations
+- Python (PyTorch, Pandas, NumPy, Scikit-learn, TensorFlow)
+- Computer Vision (CLIP, YOLO, OpenCV), model distillation, ONNX in the browser
+- Data pipelines, dataset preparation and model evaluation
 
 ### Frontend
 - React, Angular, Next.js, TypeScript
@@ -32,16 +44,17 @@ Currently, I am pursuing a degree in **Systems Development** at UNIMAM and activ
 
 ---
 
-## Current Focus
-
-- Improving backend architecture and system design
-- Building real-world backend services with Go
-- Applying structured engineering practices to system development
-- Exploring practical applications of AI in backend systems
-
----
-
 ## Selected Work
+
+### [Meio-Termo](https://www.jpierreribeiro.com.br/meio-termo/) – What a face says about declared race
+- Independent research with 1.57 million candidacies and 113,000 public photos from Brazil's Superior Electoral Court (TSE)
+- Fine-tuned and calibrated CLIP ViT-B/16 (75% balanced accuracy), distilled into an 8.4 MB model that runs in the browser
+- Open source ([code](https://github.com/jpierreribeiro/meio-termo)), with a paper submitted to SciELO Preprints
+
+### Room Map – UNIMAM
+- Automatic allocation of about 90 classrooms, considering capacity, joint classes and schedule conflicts
+- PDF and Excel import, official timetable generation (.docx) and a statistics dashboard
+- ASP.NET Core, PostgreSQL, React + TypeScript and a Python (FastAPI) document service
 
 ### Computer Vision – Agricultural Pest Detection
 - Built datasets and annotation pipelines for YOLO models
@@ -55,15 +68,7 @@ Currently, I am pursuing a degree in **Systems Development** at UNIMAM and activ
 
 ---
 
-## Tools & Workflow
-
-- Git & GitHub (clean commits, structured repositories)
-- Docker (containerized environments)
-- API-first development approach
-
----
-
 ## 📫 Contact
 
-[LinkedIn](https://linkedin.com/in/jpierreribeiro)  
+[Portfolio](https://www.jpierreribeiro.com.br) · [LinkedIn](https://linkedin.com/in/jpierreribeiro)  
 Email: contatoribeirodossantos@gmail.com
